@@ -1,0 +1,6 @@
+[submodule "Money"]
+	path = Money
+	url = https://github.com/gurleenvirdi/Money.git
+[submodule "GMoney"]
+	path = GMoney
+	url = https://github.com/gurleenvirdi/GMoney.git
